@@ -3,6 +3,9 @@ This personal finance manager is a simple command-line application written in Ru
 
 =>Features
 > Add transactions: Easily record your income and expenses.
+
 > View transactions: See a detailed list of all your transactions.
+
 > Calculate balance: Get a summary of your total income, expenses, and net balance.
+
 > Filter transactions: Filter your transactions by date, type (income/expense), or category.
